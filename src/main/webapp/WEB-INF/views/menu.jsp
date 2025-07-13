@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index Page</title>
+<title>Menu</title>
 </head>
 <body>
-<h2>Welcome to your first spring boot project</h2>
+<a href="register">View Registration</a>
+<a href="list">List Registration</a>
 </body>
 </html>
